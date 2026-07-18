@@ -1,0 +1,8 @@
+<resources>
+    <string name="google_app_id" translatable="false">1:431674648876:android:1b855995c37cb6a88a2489</string>
+    <string name="google_api_key" translatable="false">AIzaSyBVn5SrwllSZOzunZX27lKte-i_dEBgJjg</string>
+    <string name="firebase_database_url" translatable="false">https://law-dictionary-38d84.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">431674648876</string>
+    <string name="google_storage_bucket" translatable="false">law-dictionary-38d84.appspot.com</string>
+    <string name="project_id" translatable="false">law-dictionary-38d84</string>
+</resources>
